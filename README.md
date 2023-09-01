@@ -30,8 +30,6 @@ injection. [Try it here](https://github.com/RashmitaRaut/The-NewsRoom-)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RashmitaRaut&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmitaRaut&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RashmitaRaut&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RashmitaRaut&icon=6&color=11)](https://visitcount.itsvg.in)
