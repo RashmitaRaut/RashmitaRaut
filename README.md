@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final year CSE student skilled in building UI for native Android Applications using Jetpack Compose and Kotlin.<br>Knowledgeable in Java and UI/UX. Highly adaptable and empathetic team player with exceptional communication<br>and problem-solving abilities.<br>
+Final year CSE student skilled in building UI for native Android Applications using Jetpack Compose and Kotlin.<br>Knowledgeable in Java and UI/UX. Highly adaptable and empathetic team player with exceptional communication and problem-solving abilities.<br>
 <br><img align="right" width="300" height="300" src="https://github.com/RashmitaRaut/RashmitaRaut/assets/112264742/8625dd33-ee4a-4432-b26f-3e241fd1fe47">
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmita-raut) 
@@ -23,6 +23,10 @@ news items of their interest. <br>• Integrated Retrofit and Dagger Hilt for ef
 injection. [Try it here](https://github.com/RashmitaRaut/The-NewsRoom-)
 
 
+<br>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/RashmitaRaut/RashmitaRaut/assets/112264742/53909e5b-bfec-4245-a5ba-6b8230056a56">
+</p>
 
 
 
