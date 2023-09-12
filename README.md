@@ -1,3 +1,5 @@
+
+![Black Technology LinkedIn Banner](https://github.com/RashmitaRaut/RashmitaRaut/assets/112264742/b67f8c37-89df-47b9-a3e8-f7e01aa09850)
 # 💫 About Me:
 Final year CSE student skilled in building UI for native Android Applications using Jetpack Compose and Kotlin.<br>Knowledgeable in Java and UI/UX. Highly adaptable and empathetic team player with exceptional communication and problem-solving abilities.<br>
 <br><img align="right" width="300" height="300" src="https://github.com/RashmitaRaut/RashmitaRaut/assets/112264742/8625dd33-ee4a-4432-b26f-3e241fd1fe47">
